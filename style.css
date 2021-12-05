@@ -1,0 +1,30 @@
+body{
+text-align: center;       
+} 
+img{
+width: 500px;    
+} 
+#thor{
+background:linear-gradient(#eb344f 0%,#8934eb 100%);
+z-index: 10;
+}
+.india{
+list-style: none;
+position: fixed;
+   width: 100%;
+    top: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+    z-index: 11;
+    background: red; 
+}
+.lenin{
+      padding-bottom: 10px;
+    padding-right: 20px;
+    display: inline;
+    font-size: 26px;
+    padding-left:20px;
+}
+.lenin:hover{
+    background-color: aqua;
+}
